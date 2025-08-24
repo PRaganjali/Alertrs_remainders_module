@@ -36,7 +36,7 @@ It is designed to manage, schedule, and deliver alerts or reminders in an academ
 **Option 1: Run from Source**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AlertRs_remainders_module.git
+   git clone https://github.com/PRaganjali/Alertrs_remainders_module.git
 2. Open the project in your IDE (VS Code/IntelliJ).
 3. Build the project using Maven: mvn clean install
 4. Run the web app directly.
